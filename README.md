@@ -4,6 +4,8 @@
 **Institution:** Koneru Lakshmaiah Education Foundation (KLH University)  
 **Section:** Sec No- 5 | **Team:** Team No- 64  
 
+🌐 **Live Web Application:** [https://wine-quality-app-eight.vercel.app](https://wine-quality-app-eight.vercel.app)
+
 ---
 
 ## 1. Abstract
@@ -31,8 +33,18 @@
 * **Data Handling & Preprocessing:** Pandas, NumPy
 * **Machine Learning & Evaluation:** Scikit-learn (Random Forest Classifier, train-test split, Stratified cross-validation, evaluation metrics)
 * **Data Visualization:** Matplotlib, Seaborn (feature importance plotting, confusion matrix, ROC curves)
-* **Development Environment:** Jupyter Notebook, Google Colab
+* **Web Framework & API:** Flask, Flask-CORS
+* **Web Deployment:** Vercel Serverless Functions
+* **Development Environment:** Jupyter Notebook, Google Colab, VS Code
 * **Dataset Source:** Wine Quality Dataset (UCI Machine Learning Repository / Kaggle)
+
+---
+
+## 4. Live Web Application
+
+An interactive web UI has been built and deployed live for real-time wine quality testing:
+- **URL:** [https://wine-quality-app-eight.vercel.app](https://wine-quality-app-eight.vercel.app)
+- **Features:** 11 chemical sliders, wine type selector, instant classification (**GOOD** / **POOR**), probability breakdown, and dynamic feature importance rankings.
 
 ---
 
@@ -46,5 +58,18 @@
 │   ├── will upload
 │   ├── Abstract.md
 │   └── Wine quality random forest.ipynb
+├── Wine-Quality-Web-App/
+│   ├── templates/
+│   │   └── index.html
+│   ├── static/
+│   ├── app.py
+│   ├── train.py
+│   ├── requirements.txt
+│   ├── vercel.json
+│   ├── Procfile
+│   ├── render.yaml
+│   ├── wine_rf_model.joblib
+│   └── README.md
+├── .gitignore
 └── README.md
 ```
