@@ -1,8 +1,12 @@
 # Wine Quality Prediction and Feature Importance Analysis Using Random Forest
 
-**Course:** Machine Learning (25CS2107E) — Y25 2026–2027 Trimester - 4  
-**Institution:** Koneru Lakshmaiah Education Foundation (KLH University)  
-**Section:** Sec No- 5 | **Team:** Team No- 64  
+<div align="center">
+
+![KLH University](https://img.shields.io/badge/KL%20Deemed%20University-CSE-blue?style=for-the-badge&logo=university&logoColor=white)
+
+</div>
+
+---
 
 🌐 **Live Web Application:** [https://wine-quality-app-eight.vercel.app](https://wine-quality-app-eight.vercel.app)
 
