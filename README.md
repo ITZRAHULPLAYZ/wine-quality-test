@@ -3,6 +3,8 @@
 <div align="center">
 
 ![KLH University](https://img.shields.io/badge/KL%20Deemed%20University-CSE-blue?style=for-the-badge&logo=university&logoColor=white)
+![Course](https://img.shields.io/badge/Course-Machine%20Learning-green?style=for-the-badge)
+![Team](https://img.shields.io/badge/Team-64-orange?style=for-the-badge)
 
 </div>
 
