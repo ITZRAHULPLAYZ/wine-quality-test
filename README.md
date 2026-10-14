@@ -59,15 +59,13 @@ An interactive web UI has been built and deployed live for real-time wine qualit
 ```text
 ├── Project - Wine Quality Prediction and Feature Importance Analysis Using Random Forest/
 │   ├── DataSet/
-│   │   └── i will upload
-│   ├── i will upload
-│   ├── will upload
+│   │   └── wine+quality.zip
 │   ├── Abstract.md
+│   ├── wine quality ppt.pdf
 │   └── Wine quality random forest.ipynb
 ├── Wine-Quality-Web-App/
 │   ├── templates/
 │   │   └── index.html
-│   ├── static/
 │   ├── app.py
 │   ├── train.py
 │   ├── requirements.txt
@@ -76,6 +74,7 @@ An interactive web UI has been built and deployed live for real-time wine qualit
 │   ├── render.yaml
 │   ├── wine_rf_model.joblib
 │   └── README.md
+├── MACHINE LEARNING ABRSTRACT.docx.pdf
 ├── .gitignore
 └── README.md
 ```
